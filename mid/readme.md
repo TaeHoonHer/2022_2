@@ -12,10 +12,10 @@
 > - Aos 앱을 통해 사용해볼 수 있도록 한다
 
 ### 프로젝트 개발 툴
-> Android Studio
-> DJango
-> VScode
-> figma
+> - Android Studio
+> - DJango
+> - VScode
+> - figma
 
 ### 현재 진행 상황
 - Figma를 통한 디자인 작업 완료
